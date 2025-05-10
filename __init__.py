@@ -9,3 +9,9 @@ bl_info = {
 }
 
 from . import forge_pro_2_5
+
+def register():
+    forge_pro_2_5.register()
+
+def unregister():
+    forge_pro_2_5.unregister()
