@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Splatmap Shader Forge PRO",
-    "author": "Doğukan & ChatGPT",
+    "author": "Dogukan",
     "version": (2, 5),
     "blender": (4, 3, 0),
     "location": "Properties > Material Tab",
